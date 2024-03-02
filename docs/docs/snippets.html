@@ -1,0 +1,6 @@
+<section><div class="container"><h2 class="title-2">Полезные сниппеты</h2><h4 class="title-4">SCSS сниппеты для медиазапросов</h4><p>Код вызова: <code>tablet</code></p><pre class="code">@include tablet { ... }</pre><p>Код вызова: <code>mobile</code></p><pre class="code">@include mobile { ... }</pre><p>Retina background-image через медиа запрос. Код вызова: <code>mediaBg</code></p><pre class="code">
+@include mediaBg() {
+	background-image: url('./../img/example@2x.jpg');
+}</pre><p>Retina background-image через image-set. Код вызова: <code>imgSet</code></p><pre class="code">background-image: image-set(
+	url('./../img/bg.jpg') 1x,
+	url('./../img/bg@2x.jpg') 2x);</pre></div></section>
