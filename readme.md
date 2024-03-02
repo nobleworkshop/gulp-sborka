@@ -22,4 +22,4 @@ gulp
 gulp docs
 ```
 
-[Смотреть демо]([https://user.github.io/repo/](https://nobleworkshop.github.io/gulp-sborka/)https://nobleworkshop.github.io/gulp-sborka/)
+[Смотреть демо](https://user.github.io/repo/](https://nobleworkshop.github.io/gulp-sborka/)https://nobleworkshop.github.io/gulp-sborka/)
